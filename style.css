@@ -1,10 +1,11 @@
 .container{
     max-width: 400px;
-    background: white;
+    max-height: 200px;
+    background: paleturquoise;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    margin: auto;
+    margin: 300px auto auto;
 }
 
 .searchContainer{
@@ -24,7 +25,7 @@
     color: white;
     border: none;
     cursor: pointer;
-    border: 5px;
+    border-radius: 5px;
 }
 
 #weatherContainer{
