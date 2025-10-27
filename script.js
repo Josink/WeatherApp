@@ -1,3 +1,4 @@
+//commit
 document.getElementById("searchButton").addEventListener("click",()=>{
     const city = document.getElementById("cityField").value.trim();
     if(city){
